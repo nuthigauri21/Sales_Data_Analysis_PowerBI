@@ -1,0 +1,14 @@
+Date =
+ADDCOLUMNS(
+    CALENDAR(MIN(Sales[OrderDate]), MAX(Sales[OrderDate])),
+    "Year", YEAR([Date]),
+    "Month Number", MONTH([Date]),
+    "Month", FORMAT([Date], "MMM"),
+    "Year Month", FORMAT([Date], "YYYY-MM"),
+    "Quarter", "Q" & FORMAT([Date], "Q")
+)
+
+-- After creating this table:
+-- 1. Mark as date table using Date[Date].
+-- 2. Sort Date[Month] by Date[Month Number].
+-- 3. Create relationship Date[Date] (one) -> Sales[OrderDate] (many).

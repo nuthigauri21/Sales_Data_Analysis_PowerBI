@@ -1,0 +1,29 @@
+-- Rename the imported table to Sales (or adjust the table name below).
+
+Total Revenue = SUM(Sales[Revenue])
+
+Total Profit = SUM(Sales[Profit])
+
+Total Cost = SUM(Sales[Cost])
+
+Total Orders = DISTINCTCOUNT(Sales[OrderID])
+
+Units Sold = SUM(Sales[Quantity])
+
+Profit Margin % = DIVIDE([Total Profit], [Total Revenue], 0)
+
+Average Order Value = DIVIDE([Total Revenue], [Total Orders], 0)
+
+Revenue LY =
+CALCULATE([Total Revenue], SAMEPERIODLASTYEAR('Date'[Date]))
+
+Revenue YoY Growth % =
+DIVIDE([Total Revenue] - [Revenue LY], [Revenue LY], 0)
+
+Profit LY =
+CALCULATE([Total Profit], SAMEPERIODLASTYEAR('Date'[Date]))
+
+Profit YoY Growth % =
+DIVIDE([Total Profit] - [Profit LY], [Profit LY], 0)
+
+Revenue per Unit = DIVIDE([Total Revenue], [Units Sold], 0)

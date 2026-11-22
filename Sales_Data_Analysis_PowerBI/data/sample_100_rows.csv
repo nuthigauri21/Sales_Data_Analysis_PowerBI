@@ -1,0 +1,101 @@
+OrderID,OrderDate,CustomerID,CustomerSegment,Region,City,Category,Product,Quantity,UnitPrice,Discount,Revenue,Cost,Profit,PaymentMode,SalesChannel
+ORD-01029,2024-01-01,CUST-0601,Corporate,East,Guwahati,Furniture,Office Chair,5,14676.75,0.1,66045.38,44056.86,21988.52,Net Banking,Distributor
+ORD-04745,2024-01-01,CUST-1041,Small Business,South,Hyderabad,Electronics,Headphones,4,2024.63,0.0,8098.52,5925.61,2172.91,UPI,Online
+ORD-03917,2024-01-02,CUST-0960,Corporate,North,Delhi,Electronics,Laptop,3,44087.22,0.1,119035.49,107579.24,11456.25,Credit Card,Distributor
+ORD-03682,2024-01-02,CUST-0891,Consumer,South,Chennai,Furniture,Desk,6,8273.75,0.1,44678.25,27482.47,17195.78,Credit Card,Online
+ORD-03365,2024-01-02,CUST-0956,Small Business,Central,Raipur,Electronics,Monitor,1,9825.73,0.1,8843.16,6529.98,2313.18,Debit Card,Distributor
+ORD-02388,2024-01-02,CUST-0178,Corporate,North,Delhi,Home & Kitchen,Lamp,4,2600.31,0.15,8841.05,5767.63,3073.42,Cash,Retail Store
+ORD-01678,2024-01-02,CUST-0189,Consumer,West,Ahmedabad,Electronics,Smartphone,4,44116.79,0.0,176467.16,137098.15,39369.01,Debit Card,Distributor
+ORD-02680,2024-01-02,CUST-0920,Small Business,East,Patna,Home & Kitchen,Vacuum Cleaner,5,13383.43,0.0,66917.15,46117.6,20799.55,Net Banking,Distributor
+ORD-04317,2024-01-03,CUST-0671,Small Business,South,Kochi,Home & Kitchen,Mixer,6,6014.56,0.0,36087.36,21821.83,14265.53,Net Banking,Distributor
+ORD-01431,2024-01-03,CUST-0078,Consumer,East,Guwahati,Electronics,Laptop,3,73169.35,0.0,219508.05,172674.9,46833.15,Credit Card,Distributor
+ORD-03057,2024-01-03,CUST-0268,Corporate,South,Kochi,Furniture,Desk,4,6327.18,0.0,25308.72,17031.31,8277.41,Credit Card,Online
+ORD-03376,2024-01-03,CUST-0369,Corporate,South,Kochi,Furniture,Office Chair,5,15523.3,0.1,69854.85,45766.15,24088.7,UPI,Online
+ORD-03122,2024-01-03,CUST-0785,Small Business,West,Pune,Furniture,Desk,7,16687.77,0.02,114478.1,76075.02,38403.08,Credit Card,Distributor
+ORD-04936,2024-01-03,CUST-0962,Consumer,South,Chennai,Electronics,Headphones,6,3889.29,0.0,23335.74,13582.51,9753.23,Net Banking,Retail Store
+ORD-00972,2024-01-03,CUST-0048,Corporate,East,Kolkata,Electronics,Smartphone,2,63645.43,0.2,101832.69,98627.18,3205.51,Cash,Online
+ORD-04645,2024-01-03,CUST-0104,Consumer,West,Ahmedabad,Furniture,Bookshelf,7,8661.32,0.15,51534.85,37621.94,13912.91,UPI,Retail Store
+ORD-03521,2024-01-04,CUST-0130,Consumer,East,Guwahati,Home & Kitchen,Cookware Set,2,5099.03,0.05,9688.16,6453.92,3234.24,Net Banking,Retail Store
+ORD-02603,2024-01-04,CUST-0321,Consumer,East,Kolkata,Electronics,Smartphone,4,46300.94,0.05,175943.57,97587.75,78355.82,Cash,Online
+ORD-00674,2024-01-04,CUST-1185,Small Business,South,Chennai,Clothing,Jeans,2,3176.92,0.15,5400.76,3620.16,1780.6,UPI,Distributor
+ORD-02287,2024-01-04,CUST-0862,Consumer,West,Ahmedabad,Electronics,Laptop,7,37492.18,0.02,257196.35,172021.09,85175.26,Net Banking,Online
+ORD-03127,2024-01-04,CUST-0056,Corporate,Central,Raipur,Home & Kitchen,Mixer,3,5088.45,0.1,13738.81,10258.39,3480.42,Credit Card,Distributor
+ORD-01165,2024-01-05,CUST-0129,Consumer,East,Bhubaneswar,Home & Kitchen,Lamp,1,4028.34,0.1,3625.51,2282.87,1342.64,Credit Card,Distributor
+ORD-04282,2024-01-05,CUST-1138,Corporate,Central,Nagpur,Furniture,Bookshelf,2,5256.58,0.05,9987.5,7687.53,2299.97,Cash,Distributor
+ORD-04285,2024-01-05,CUST-0228,Consumer,North,Delhi,Furniture,Office Chair,1,13048.84,0.1,11743.96,7491.57,4252.39,UPI,Online
+ORD-04859,2024-01-05,CUST-0044,Small Business,South,Hyderabad,Home & Kitchen,Vacuum Cleaner,2,14870.23,0.15,25279.39,22265.6,3013.79,Credit Card,Online
+ORD-03691,2024-01-05,CUST-0643,Corporate,South,Chennai,Furniture,Office Chair,7,8975.62,0.1,56546.41,36919.86,19626.55,Credit Card,Retail Store
+ORD-00980,2024-01-05,CUST-0654,Corporate,West,Ahmedabad,Furniture,Sofa,7,34304.17,0.1,216116.27,155880.03,60236.24,Cash,Online
+ORD-03422,2024-01-05,CUST-0203,Small Business,West,Ahmedabad,Clothing,Shoes,7,2925.02,0.05,19451.38,12633.84,6817.54,Net Banking,Retail Store
+ORD-00307,2024-01-06,CUST-1069,Consumer,North,Jaipur,Electronics,Laptop,6,43598.02,0.05,248508.71,173387.81,75120.9,Credit Card,Distributor
+ORD-02985,2024-01-06,CUST-1199,Corporate,North,Lucknow,Furniture,Bookshelf,7,11008.45,0.05,73206.19,56791.58,16414.61,Net Banking,Distributor
+ORD-04632,2024-01-06,CUST-0482,Consumer,South,Hyderabad,Electronics,Laptop,1,62285.19,0.0,62285.19,37863.02,24422.17,UPI,Distributor
+ORD-04213,2024-01-06,CUST-0489,Small Business,East,Bhubaneswar,Home & Kitchen,Cookware Set,3,2449.43,0.15,6246.05,5015.1,1230.95,Debit Card,Retail Store
+ORD-01423,2024-01-06,CUST-1071,Small Business,South,Chennai,Furniture,Office Chair,1,14655.28,0.1,13189.75,8084.87,5104.88,Net Banking,Distributor
+ORD-00398,2024-01-06,CUST-0204,Consumer,South,Hyderabad,Furniture,Office Chair,2,7796.34,0.02,15280.83,8379.25,6901.58,Cash,Distributor
+ORD-02165,2024-01-06,CUST-0590,Small Business,West,Ahmedabad,Home & Kitchen,Lamp,5,1247.16,0.1,5612.22,4038.9,1573.32,Debit Card,Retail Store
+ORD-04247,2024-01-07,CUST-0585,Consumer,East,Kolkata,Clothing,Shoes,4,4284.44,0.0,17137.76,11301.46,5836.3,Debit Card,Retail Store
+ORD-03341,2024-01-07,CUST-0029,Small Business,West,Ahmedabad,Home & Kitchen,Mixer,6,2765.03,0.05,15760.67,13454.63,2306.04,Debit Card,Online
+ORD-00835,2024-01-07,CUST-1060,Small Business,South,Hyderabad,Clothing,Jeans,4,2264.14,0.02,8875.43,6124.33,2751.1,Credit Card,Online
+ORD-04683,2024-01-07,CUST-0795,Corporate,North,Jaipur,Home & Kitchen,Mixer,2,4596.79,0.15,7814.54,5085.22,2729.32,Net Banking,Distributor
+ORD-03801,2024-01-07,CUST-0445,Small Business,West,Mumbai,Clothing,T-Shirt,7,462.86,0.1,2916.02,2443.5,472.52,Debit Card,Distributor
+ORD-02096,2024-01-07,CUST-0680,Corporate,Central,Nagpur,Electronics,Headphones,1,4872.88,0.0,4872.88,2990.93,1881.95,Debit Card,Online
+ORD-02199,2024-01-07,CUST-0894,Corporate,North,Delhi,Home & Kitchen,Cookware Set,4,3780.23,0.1,13608.83,10551.2,3057.63,Net Banking,Distributor
+ORD-03793,2024-01-08,CUST-0802,Corporate,North,Chandigarh,Clothing,Jacket,3,2363.55,0.05,6736.12,5115.06,1621.06,Net Banking,Online
+ORD-02959,2024-01-08,CUST-0530,Small Business,Central,Raipur,Electronics,Headphones,1,5557.92,0.02,5446.76,4325.92,1120.84,Credit Card,Distributor
+ORD-02919,2024-01-08,CUST-0932,Small Business,West,Mumbai,Furniture,Bookshelf,3,7010.82,0.0,21032.46,12297.96,8734.5,UPI,Retail Store
+ORD-02769,2024-01-08,CUST-0393,Small Business,West,Mumbai,Clothing,Jacket,3,6333.75,0.2,15201.0,11677.56,3523.44,Credit Card,Distributor
+ORD-00751,2024-01-08,CUST-0713,Corporate,West,Surat,Electronics,Monitor,5,24413.64,0.02,119626.84,90782.43,28844.41,Credit Card,Online
+ORD-04151,2024-01-09,CUST-0286,Corporate,East,Kolkata,Furniture,Office Chair,6,8304.16,0.0,49824.96,27590.77,22234.19,Credit Card,Retail Store
+ORD-01092,2024-01-09,CUST-0142,Consumer,Central,Raipur,Home & Kitchen,Lamp,5,3478.81,0.05,16524.35,12117.24,4407.11,UPI,Online
+ORD-04688,2024-01-09,CUST-0430,Corporate,West,Ahmedabad,Home & Kitchen,Lamp,2,929.53,0.05,1766.11,1438.85,327.26,Debit Card,Distributor
+ORD-03846,2024-01-09,CUST-0331,Corporate,East,Guwahati,Electronics,Smartphone,1,26525.0,0.15,22546.25,20402.36,2143.89,UPI,Retail Store
+ORD-00888,2024-01-09,CUST-1023,Corporate,South,Hyderabad,Clothing,Jacket,2,2395.12,0.15,4071.7,3285.91,785.79,Cash,Retail Store
+ORD-01070,2024-01-09,CUST-1029,Small Business,South,Kochi,Home & Kitchen,Vacuum Cleaner,7,11583.1,0.02,79460.07,59189.89,20270.18,UPI,Retail Store
+ORD-02205,2024-01-10,CUST-0951,Small Business,East,Bhubaneswar,Electronics,Laptop,4,78171.69,0.15,265783.75,246673.65,19110.1,Net Banking,Distributor
+ORD-03674,2024-01-10,CUST-0245,Small Business,West,Ahmedabad,Furniture,Sofa,3,43220.54,0.15,110212.38,94679.81,15532.57,Cash,Distributor
+ORD-03332,2024-01-10,CUST-0709,Small Business,North,Chandigarh,Home & Kitchen,Lamp,1,3138.19,0.15,2667.46,1871.89,795.57,Cash,Distributor
+ORD-02145,2024-01-10,CUST-0313,Small Business,South,Chennai,Clothing,Shoes,5,1319.66,0.1,5938.47,3741.53,2196.94,Debit Card,Retail Store
+ORD-04957,2024-01-10,CUST-0700,Small Business,North,Jaipur,Furniture,Sofa,2,24393.39,0.2,39029.42,28097.6,10931.82,UPI,Online
+ORD-01862,2024-01-10,CUST-0785,Consumer,Central,Bhopal,Clothing,Jeans,6,1025.76,0.1,5539.1,3882.46,1656.64,Credit Card,Online
+ORD-04403,2024-01-10,CUST-0496,Corporate,North,Chandigarh,Electronics,Laptop,5,70030.95,0.0,350154.75,238382.45,111772.3,Cash,Online
+ORD-00827,2024-01-10,CUST-0057,Small Business,North,Jaipur,Furniture,Office Chair,3,13921.0,0.0,41763.0,22036.27,19726.73,Cash,Online
+ORD-03944,2024-01-11,CUST-0143,Small Business,North,Chandigarh,Clothing,Jacket,6,5310.21,0.05,30268.2,24661.72,5606.48,UPI,Retail Store
+ORD-00956,2024-01-11,CUST-0754,Small Business,Central,Raipur,Furniture,Desk,3,20370.34,0.1,54999.92,32347.61,22652.31,Debit Card,Online
+ORD-02699,2024-01-11,CUST-1163,Corporate,South,Bengaluru,Clothing,Jacket,7,4520.0,0.0,31640.0,21760.26,9879.74,Credit Card,Online
+ORD-00878,2024-01-11,CUST-0334,Small Business,Central,Indore,Home & Kitchen,Mixer,4,5683.82,0.2,18188.22,16646.32,1541.9,Cash,Distributor
+ORD-00840,2024-01-11,CUST-0577,Small Business,South,Hyderabad,Home & Kitchen,Cookware Set,7,5572.68,0.1,35107.88,28089.77,7018.11,Net Banking,Distributor
+ORD-01072,2024-01-11,CUST-0188,Small Business,South,Hyderabad,Electronics,Monitor,7,25828.75,0.15,153681.06,105753.69,47927.37,Debit Card,Retail Store
+ORD-04413,2024-01-11,CUST-0958,Corporate,West,Ahmedabad,Electronics,Smartphone,7,34923.52,0.0,244464.64,179987.86,64476.78,Cash,Distributor
+ORD-01519,2024-01-12,CUST-0220,Consumer,West,Surat,Electronics,Headphones,1,905.34,0.15,769.54,612.95,156.59,Cash,Distributor
+ORD-02081,2024-01-12,CUST-0653,Consumer,West,Pune,Clothing,T-Shirt,1,392.02,0.0,392.02,314.24,77.78,Net Banking,Online
+ORD-00080,2024-01-12,CUST-0823,Corporate,South,Kochi,Electronics,Smartphone,2,32111.6,0.02,62938.74,51677.67,11261.07,Cash,Online
+ORD-04031,2024-01-12,CUST-1143,Small Business,Central,Raipur,Furniture,Sofa,5,24722.83,0.0,123614.15,71252.67,52361.48,UPI,Distributor
+ORD-00525,2024-01-12,CUST-0594,Small Business,North,Chandigarh,Home & Kitchen,Vacuum Cleaner,4,5182.14,0.0,20728.56,12261.77,8466.79,UPI,Retail Store
+ORD-02697,2024-01-12,CUST-1043,Consumer,East,Guwahati,Home & Kitchen,Cookware Set,4,8916.96,0.1,32101.06,20014.77,12086.29,Debit Card,Retail Store
+ORD-00658,2024-01-12,CUST-0290,Small Business,East,Guwahati,Home & Kitchen,Lamp,5,1654.21,0.0,8271.05,5533.08,2737.97,Debit Card,Retail Store
+ORD-01980,2024-01-12,CUST-0062,Small Business,South,Chennai,Furniture,Bookshelf,4,10906.05,0.2,34899.36,28288.12,6611.24,Credit Card,Distributor
+ORD-03860,2024-01-12,CUST-0606,Small Business,South,Chennai,Electronics,Laptop,1,52496.16,0.2,41996.93,36992.97,5003.96,UPI,Online
+ORD-03798,2024-01-13,CUST-0212,Consumer,West,Pune,Home & Kitchen,Lamp,7,1385.18,0.0,9696.26,5995.88,3700.38,Debit Card,Online
+ORD-04890,2024-01-13,CUST-1071,Corporate,South,Hyderabad,Clothing,Shoes,7,1275.82,0.15,7591.13,4727.81,2863.32,Cash,Retail Store
+ORD-00437,2024-01-13,CUST-0763,Small Business,West,Surat,Home & Kitchen,Vacuum Cleaner,1,16925.3,0.1,15232.77,11500.47,3732.3,Credit Card,Distributor
+ORD-03891,2024-01-13,CUST-1084,Corporate,Central,Indore,Electronics,Smartphone,3,15218.89,0.1,41091.0,36325.46,4765.54,Net Banking,Retail Store
+ORD-03206,2024-01-13,CUST-0333,Corporate,Central,Bhopal,Clothing,T-Shirt,5,571.11,0.0,2855.55,2035.38,820.17,Credit Card,Retail Store
+ORD-02983,2024-01-13,CUST-1001,Consumer,East,Patna,Clothing,Jeans,1,2762.24,0.15,2347.9,1930.28,417.62,Debit Card,Online
+ORD-00251,2024-01-14,CUST-0550,Corporate,North,Delhi,Furniture,Office Chair,3,4399.92,0.0,13199.76,7467.08,5732.68,Credit Card,Distributor
+ORD-00370,2024-01-14,CUST-1194,Consumer,East,Guwahati,Electronics,Headphones,2,4380.67,0.05,8323.27,5812.13,2511.14,Net Banking,Retail Store
+ORD-03768,2024-01-14,CUST-0545,Corporate,North,Jaipur,Home & Kitchen,Lamp,7,696.97,0.0,4878.79,3836.91,1041.88,Debit Card,Retail Store
+ORD-03939,2024-01-14,CUST-0647,Corporate,North,Delhi,Electronics,Monitor,1,17441.08,0.05,16569.03,10457.73,6111.3,Debit Card,Distributor
+ORD-02780,2024-01-14,CUST-0436,Corporate,Central,Indore,Home & Kitchen,Mixer,7,2745.23,0.05,18255.78,13848.69,4407.09,Credit Card,Distributor
+ORD-04998,2024-01-15,CUST-0523,Consumer,East,Patna,Clothing,T-Shirt,4,1010.8,0.1,3638.88,2164.34,1474.54,UPI,Retail Store
+ORD-02328,2024-01-15,CUST-0771,Consumer,Central,Raipur,Furniture,Office Chair,7,8467.04,0.02,58083.89,40781.05,17302.84,UPI,Distributor
+ORD-03815,2024-01-15,CUST-0224,Corporate,Central,Nagpur,Clothing,Shoes,2,4970.24,0.02,9741.67,5675.11,4066.56,Cash,Distributor
+ORD-03154,2024-01-15,CUST-0844,Corporate,North,Delhi,Electronics,Monitor,6,9656.38,0.0,57938.28,43934.52,14003.76,Debit Card,Retail Store
+ORD-03782,2024-01-15,CUST-0680,Small Business,North,Lucknow,Home & Kitchen,Lamp,5,2464.84,0.15,10475.57,7093.13,3382.44,Credit Card,Distributor
+ORD-03966,2024-01-15,CUST-1058,Corporate,North,Jaipur,Furniture,Desk,2,12465.85,0.05,23685.11,20229.51,3455.6,Credit Card,Online
+ORD-03041,2024-01-15,CUST-0755,Consumer,South,Chennai,Electronics,Headphones,1,984.75,0.0,984.75,724.56,260.19,Net Banking,Distributor
+ORD-00223,2024-01-15,CUST-0822,Consumer,West,Ahmedabad,Clothing,Jacket,3,2646.93,0.05,7543.75,6404.01,1139.74,Cash,Online
+ORD-00791,2024-01-15,CUST-1158,Consumer,South,Kochi,Home & Kitchen,Lamp,1,4428.92,0.0,4428.92,3252.94,1175.98,Debit Card,Distributor
+ORD-03889,2024-01-16,CUST-0782,Consumer,East,Bhubaneswar,Clothing,Jacket,6,4916.25,0.1,26547.75,20429.29,6118.46,UPI,Online
+ORD-00435,2024-01-16,CUST-0260,Consumer,East,Kolkata,Electronics,Laptop,3,79285.26,0.1,214070.2,179291.16,34779.04,Cash,Retail Store
+ORD-00679,2024-01-16,CUST-0168,Corporate,South,Kochi,Home & Kitchen,Cookware Set,6,3147.43,0.15,16051.89,11102.61,4949.28,Debit Card,Retail Store
